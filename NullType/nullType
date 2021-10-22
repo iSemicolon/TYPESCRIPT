@@ -1,0 +1,6 @@
+var a:null;
+a=10; //not allowed
+
+var b:string;
+b="hello"; //allowed
+b=null; //allowed
