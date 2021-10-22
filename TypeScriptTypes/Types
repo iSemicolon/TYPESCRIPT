@@ -1,0 +1,6 @@
+Types:
+1.Static
+   a.BuiltIn(Number, Void, String, NULL, Boolean)
+   b.userDefine(Array, class, Touple, Enum, Interface, Function)
+2.Generics
+3. Decorators
